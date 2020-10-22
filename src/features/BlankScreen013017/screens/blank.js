@@ -47,6 +47,7 @@ export default class Blank extends React.Component {
       />
       <Button title="Press me!" onPress={() => alert("Pressed!")} />
       <Text>Sample text content</Text>
+      <Text>Sample text content</Text>
     </View>
   )
 }
@@ -68,5 +69,11 @@ const styles = StyleSheet.create({
   Slider_2: { width: "100%" },
   Slider_3: { width: "100%" },
   Button_4: {},
-  Text_5: {}
+  Text_5: {},
+  View_1: {},
+  Slider_2: { width: "100%" },
+  Slider_3: { width: "100%" },
+  Button_4: {},
+  Text_5: {},
+  Text_6: {}
 })
