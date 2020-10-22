@@ -46,7 +46,7 @@ export default class Blank extends React.Component {
         style={styles.Slider_3}
       />
       <Button title="Press me!" onPress={() => alert("Pressed!")} />
-      <Text>Sample text content</Text>
+      <Text>Sample ..........text content</Text>
       <Text>Sample text content</Text>
     </View>
   )
