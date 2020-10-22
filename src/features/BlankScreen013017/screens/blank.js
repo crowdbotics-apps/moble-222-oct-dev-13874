@@ -45,6 +45,8 @@ export default class Blank extends React.Component {
         thumbTintColor="#031035"
         style={styles.Slider_3}
       />
+      <Button title="Press me!" onPress={() => alert("Pressed!")} />
+      <Text>Sample text content</Text>
     </View>
   )
 }
@@ -61,5 +63,10 @@ const styles = StyleSheet.create({
   Slider_2: { width: "100%" },
   View_1: {},
   Slider_2: { width: "100%" },
-  Slider_3: { width: "100%" }
+  Slider_3: { width: "100%" },
+  View_1: {},
+  Slider_2: { width: "100%" },
+  Slider_3: { width: "100%" },
+  Button_4: {},
+  Text_5: {}
 })
