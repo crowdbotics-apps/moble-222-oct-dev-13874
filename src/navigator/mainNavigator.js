@@ -11,7 +11,7 @@ import BlankScreen113019Navigator from '../features/BlankScreen113019/navigator'
 import BlankScreen013017Navigator from '../features/BlankScreen013017/navigator';
 
 /**
- * new navigators can be imported here
+ * new navigators can be cvbxfgxbv imported here
  */
 
 const AppNavigator = {
